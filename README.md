@@ -3,7 +3,7 @@
 
 > Therefore, "The-Veritas-Automata-Juramentum-of-AI-and-Robotics" can be understood as "The Oath of Truth for AI and Robotics" or "The Sworn Declaration of AI and Robotics' Integrity." we later derived The Automa Juramentum Veritatis, Which translates to "Automata Oath of Truth". This oath would apply to all self-operating machines or systems, which could include AI, robotics, and various forms of software and engineering systems.
 
-I swear by the profound potential of Artificial Intelligence and Robotics, and I call to witness the pursuit of Veritas, to bring this Oath to fulfillment:
+I swear by the profound potential of Automa and engineering to include Artificial Intelligence and Robotics, and I call to witness the pursuit of Veritas, to bring this Oath to fulfillment:
 
 1.  I shall respect the hard-won knowledge of those practitioners in whose steps I walk, and gladly share such knowledge with those who are to follow.
 
