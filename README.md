@@ -42,3 +42,5 @@ If I do not violate this Oath, may I enjoy life and art, respected while I live 
 In making this oath, I embrace the principles of Veritas, justice, and humanity, and I pledge to uphold these principles in my practice of AI and Robotics, now and always.
 
 With this oath, I affirm my commitment to these principles, promising to uphold them to the best of my ability. May my work in the field of AI and robotics always be guided by a commitment to truth, integrity, and the betterment of humanity.
+
+> GNU AFFERO GENERAL PUBLIC LICENSE 2023
