@@ -1,7 +1,7 @@
 # The Automa Juramentum Veritatis
 > The purpose stated in the oath emphasizes the role of practitioners in the fields of computer science and engineering to ensure that artificial intelligence (AI) and robotics are utilized to assist humanity, contribute to the welfare of all, and enhance the quality of life. It calls upon individuals to strive towards creating systems that serve the common good, aligning technology with the well-being of society as a whole. 
 
-> Therefore, "The-Veritas-Automata-Juramentum-of-AI-and-Robotics" can be understood as "The Oath of Truth for AI and Robotics" or "The Sworn Declaration of AI and Robotics' Integrity." we later derived The Automa Juramentum Veritatis, Which translates to "Automata Oath of Truth". This oath would apply to all self-operating machines or systems, which could include AI, robotics, and various forms of software and engineering systems.
+> The "Automa Juramentum Veritatis" can be understood as "The Oath of Truth for AI and Robotics" or "The Sworn Declaration of AI and Robotics' Integrity." we can also derive The Automa Juramentum Veritatis, Which translates to "Automata Oath of Truth". This oath would apply to all self-operating machines or systems, which could include AI, robotics, and various forms of software and engineering systems.
 
 I swear by the profound potential of Automa and engineering to include Artificial Intelligence and Robotics, and I call to witness the pursuit of Veritas, to bring this Oath to fulfillment:
 
