@@ -1,6 +1,6 @@
 
-# The-Veritas-Automata-Juramentum-of-AI-and-Robotics
-Version 2
+# The Automa Juramentum Veritatis
+> Version 2
 
 Sworn by the profound potential of Automa, encompassing Artificial Intelligence and Robotics, and invoking the pursuit of Veritas, I hereby make this solemn pledge:
 
